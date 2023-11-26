@@ -7,12 +7,12 @@
 # Info
 IrrX Client is an MCBE Utility mod made by: Alizq, ringoXD and Rasky1
 
-IrrX Client is a skid of the Actinium Client
+IrrX Client is a skid of the Iris
 
 
 ## Credits
 
-* Actinium Developers
+* Iris Developers
 * Alizq
 * ringoXD
 * Rasky1
